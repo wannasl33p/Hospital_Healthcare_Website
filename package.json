@@ -1,0 +1,26 @@
+{
+  "name": "hospital_healthcare_website",
+  "version": "1.0.0",
+  "description": "This repository contains the code for building a Hospital website home page using HTML , CSS ,Javascript.This is a medical website designed by me to help hospitals and it is also beneficial for the different patients to classify their respective disease and their concerned doctors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apurv56kum/Hospital_Healthcare_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apurv56kum/Hospital_Healthcare_Website/issues"
+  },
+  "homepage": "https://github.com/Apurv56kum/Hospital_Healthcare_Website#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
